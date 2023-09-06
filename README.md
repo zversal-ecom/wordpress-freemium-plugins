@@ -34,4 +34,4 @@ For detailed documentation, usage examples, and FAQs, please visit the respectiv
 
 ---
 
-Thank you for using Zversal's WordPress freemium plugins! If you have any questions or encounter issues, please feel free to [contact us](https://zversal.com/contact).
+Thank you for using Zversal's WordPress freemium plugins! If you have any questions or encounter issues, please feel free to [contact us](https://zversal.com/#contact).
