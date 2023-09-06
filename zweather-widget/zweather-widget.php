@@ -14,7 +14,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       ZWeather Widget
- * Plugin URI:        https://#
+ * Plugin URI:        https://github.com/zversal-ecom/wordpress-freemium-plugins
  * Description:       ZWeather Widget: Instant City Forecasts
  * Version:           1.0.0
  * Author:            Zversal
